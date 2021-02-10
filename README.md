@@ -1,7 +1,7 @@
 ### Hi, I am Edivan! 👋🏻
 
 I am a curious full stack developer, based in Dublin/Ireland who is passionate about everything related to programming. 
-Currently I'm working with Aspnet Core, Redis, SQL Server, Azure Functions, Azure DevOps and much more!
+Currently I'm working with Aspnet Core, Docker, Redis, SQL Server, Azure Functions, Azure DevOps and more!
 
 - 👨🏽‍💻 I learn and increase my skills continuously.
 - 🖖🏻 Open for collaborations
