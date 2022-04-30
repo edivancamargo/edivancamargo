@@ -1,8 +1,9 @@
 ### Hi, I am Edivan! 👋🏻
 
-I am a curious software engineer based in Dublin/Ireland who is passionate about everything related to programming. 
-Currently I'm working with Angular, AspNet Core, Docker, Redis, SQL Server, Azure(DevOps, App Services, Functions, Storage) and more!
-Also, as a hobby I'm studying about Game Development using Godot and Unity.
+I am a curious self taught software engineer based in Dublin/Ireland who is passionate about technology.
+Currently I'm working with Angular, AspNet Core, SQL Server, Azure(DevOps, App Services, Functions, Storage) and more!
+
+My hobbies are playing video games, learning about how to create games and watching movies and tv shows. 🤓
 
 - 👨🏽‍💻 I learn and increase my skills continuously.
 - 🖖🏻 Open for collaborations
